@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cst2335Lab_8</string>
+    <string name="FirstItem">first</string>
+    <string name="string_close">string_close</string>
+    <string name="string_open">string_open</string>
+    <string name="dadjoke">Dad Joke</string>
+    <string name="home">Home</string>
+    <string name="exit">Exit</string>
+    <string name="joketxt">What do you call an  dad old jokes  </string>
+    <string name="hello">I am hidding</string>
+    <string name="i_am_hidden">I Am Hidden</string>
+
+</resources>

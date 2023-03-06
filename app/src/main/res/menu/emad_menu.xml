@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/draw1"
+        android:title="@string/home"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+       />  <!-- This uses showAsAction=always, so look at icon= parameter -->
+
+
+    <item android:id="@+id/draw2"
+        android:title="@string/dadjoke"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+        />  <!-- This uses showAsAction=always, so look at icon= parameter -->
+
+
+    <item android:id="@+id/draw3"
+        android:title="@string/exit"
+        android:orderInCategory="100"
+        app:showAsAction="always"
+
+        />  <!-- This uses showAsAction=always, so look at icon= parameter -->
+
+
+
+
+</menu>
